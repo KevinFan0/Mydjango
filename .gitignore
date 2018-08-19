@@ -1,0 +1,10 @@
+idea/
+
+mydjango/__pycache__/*
+snippets/__pycache__/
+
+*.pyc
+
+*.iml
+
+*.xml
