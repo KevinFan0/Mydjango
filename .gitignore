@@ -1,6 +1,6 @@
 idea/
 
-mydjango/__pycache__/*
+mydjango/__pycache__/*.pyc
 snippets/__pycache__/
 
 *.pyc
